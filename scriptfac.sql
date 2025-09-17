@@ -4,6 +4,7 @@
 -- * Fecha: Septiembre de 2025   *
 -- * Versión: 1.1                *
 -- *******************************
+--sdsssdsds
 -----------------------------------------
 -- SECCIÓN DDL DE SQL
 -- MOSTRANDO CÓMO FUNCIONA EL SUBLENGUAJE
